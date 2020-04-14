@@ -2,5 +2,6 @@
 
 module.exports = {
   email: '',
-  password: '',
+	password: '',
+	url: ''//https://zoom.us/wc/<code>/join?pwd=<pwd>
 }
